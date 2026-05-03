@@ -31,12 +31,12 @@ short_bio: >-
 
 education:
 - name: Dalian University of Technology
-  logo: /assets/images/badges/dut.svg
+  logo: /assets/images/badges/dut-icon.png
   dept: Signal and Information Processing
   position: Ph.D. Candidate
   date: Sep. 2019 - Sep. 2025
 - name: Dalian University of Technology
-  logo: /assets/images/badges/dut.svg
+  logo: /assets/images/badges/dut-icon.png
   dept: Information and Communication Engineering
   position: M.S.
   date: Sep. 2017 - Jun. 2019
