@@ -16,4 +16,5 @@ selected: false
 abstract: "A temporal modeling framework that revisits recurrent structures for effective video recognition."
 links:
   PDF: https://www.sciencedirect.com/science/article/pii/S0925231222008967
+cover: /assets/images/publication/tgn.png
 ---
