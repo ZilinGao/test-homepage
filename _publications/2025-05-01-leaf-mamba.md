@@ -16,4 +16,5 @@ selected: false
 abstract: "A local emphatic and adaptive fusion state space model for RGB-D salient object detection."
 links:
   PDF: https://arxiv.org/pdf/2509.18683
+cover: /assets/images/publication/leaf-mamba.png
 ---
