@@ -41,19 +41,19 @@ education:
   position: M.S.
   date: Sep. 2017 - Jun. 2019
 - name: Nanjing Agricultural University
-  logo: /assets/images/badges/njau.svg
+  logo: /assets/images/badges/nau_logo.jpg
   dept: Electronic Information Science and Technology
   position: B.S.
   date: Sep. 2013 - Jun. 2017
 
 experience:
 - name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/polyu.svg
+  logo: /assets/images/badges/polyu-logo.png
   dept: Research Assistant
   position: Computer Vision Research
   date: Nov. 2018 - May 2019
 - name: Alibaba DAMO Academy
-  logo: /assets/images/badges/alibaba.svg
+  logo: /assets/images/badges/ali-logo.png
   dept: Research Intern
   position: Computer Vision Research
   date: Apr. 2019 - Jul. 2019
